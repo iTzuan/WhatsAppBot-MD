@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','6282121426249']
 //-------------
 
 
@@ -77,15 +77,15 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['6282121426249']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['6282121426249']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'rfn' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'dika'
 
    //---------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = 'https://www.instagram.com/'
    
    //---------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ global.APIKeys = {
 
    global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://youtube.com/'
    
    //---------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ global.APIKeys = {
 
    global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = 'https://youtube.com/'
    
    //---------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ global.APIKeys = {
    
    global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
    //-------------
-   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   global.mlinkurl1 = 'https://youtube.com/'
    //------------- 
    
  //------ URL BUTTON 2 -----
@@ -160,7 +160,7 @@ global.APIKeys = {
    //-------------
  
  //------ REP BUTTON 1 -----
-   global.mbuttxt1 = 'ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ'
+   global.mbuttxt1 = 'SEMUA PERINTAH'
    //-------------
    global.mbutid1 = 'command'
    //-------------
@@ -193,31 +193,31 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = 'rfndika'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['6282121426249']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'rfndika' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = 'rfndika'
 //-------------
 global.icon = '✩' 
 //-------------
 global.mail = 'AlienAlfa.YT@gmail.com'
 //-------------
-global.youtube = 'https://youtube.com/c/alienalfa'
+global.youtube = 'https://youtube.com/'
 //-------------
-global.github = 'https://github.com/Alien-alfa/' 
+global.github = 'https://github.com/' 
 //-------------
-global.insta = 'https://www.instagram.com/alienalfa/' 
+global.insta = 'https://www.instagram.com/' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = ''
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = '' 
 //-------------
 global.herokuapi = '' 
 //-------------
